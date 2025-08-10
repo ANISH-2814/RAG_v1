@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-core
+langchain-embeddings
+langchain-vectorstores
+langchain-document-loaders
+langchain-retrievers
+langchain-prompts
+langchain-chains
+openai
