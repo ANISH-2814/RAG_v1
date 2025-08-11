@@ -10,3 +10,11 @@ langchain-retrievers
 langchain-prompts
 langchain-chains
 openai
+flask
+flask-cors
+pypdf2
+faiss-cpu
+sentence-transformers
+python-dotenv
+transformers
+torch
