@@ -1,12 +1,14 @@
-langchain
-langchain-community
-langchain-openai
-langchain-text-splitters
-langchain-core
-langchain-embeddings
-langchain-vectorstores
-langchain-document-loaders
-langchain-retrievers
-langchain-prompts
-langchain-chains
-openai
+# Minimal CUDA setup for RAG
+torch>=2.0.0
+transformers>=4.30.0
+faiss-cpu>=1.7.4  # FREE vector DB!
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+langchain>=0.1.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+scikit-learn  # For vector similarity search
+langchain-community  # For additional RAG features # For Jupyter support
+langchain-openai  # For OpenAI integration
+langchain-groq
+langchain-meta
