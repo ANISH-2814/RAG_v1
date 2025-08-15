@@ -11,3 +11,5 @@ scikit-learn  # For vector similarity search
 langchain-community  # For additional RAG features # For Jupyter support
 ollama-python>=0.1.0  # Ollama integration
 langchain-ollama
+langgraph
+langchain-cli[inmem]
